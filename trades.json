@@ -13,5 +13,20 @@
   "status": "pending",
   "result": null,
   "tp1_hit": false
+ },
+ {
+  "id": "tl|BTCUSD|SELL|2026-11-13 22:00:00+00:00|2026-11-14 00:00:00+00:00",
+  "strategy": "tl",
+  "symbol": "BTCUSD",
+  "side": "SELL",
+  "entry": 68258.4609375,
+  "sl": 68554.01143973214,
+  "tp1": null,
+  "tp2": 67624.9296875,
+  "rr": 2.1435634357419655,
+  "created": "2026-11-14T01:52:17.878028+00:00",
+  "status": "pending",
+  "result": null,
+  "tp1_hit": false
  }
 ]
