@@ -1,0 +1,17 @@
+[
+ {
+  "id": "daily|BTCUSD|SELL|2026-11-13 21:15:00+00:00",
+  "strategy": "daily",
+  "symbol": "BTCUSD",
+  "side": "SELL",
+  "entry": 68651.62109375,
+  "sl": 68855.63058035714,
+  "tp1": null,
+  "tp2": 68039.1796875,
+  "rr": 3.002024153069707,
+  "created": "2026-11-14T00:01:07.417825+00:00",
+  "status": "pending",
+  "result": null,
+  "tp1_hit": false
+ }
+]
