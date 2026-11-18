@@ -90,8 +90,9 @@
   "tp2": 1.1015641689300537,
   "rr": 3.537778934062845,
   "created": "2026-11-18T02:38:03.340311+00:00",
-  "status": "pending",
-  "result": null,
-  "tp1_hit": false
+  "status": "closed",
+  "result": "loss",
+  "tp1_hit": false,
+  "closed": "2026-11-18T10:40:40.181308+00:00"
  }
 ]
