@@ -106,9 +106,10 @@
   "tp2": 63004.30859375,
   "rr": 2.333801718232996,
   "created": "2026-11-19T17:37:57.911444+00:00",
-  "status": "pending",
-  "result": null,
-  "tp1_hit": false
+  "status": "closed",
+  "result": "missed",
+  "tp1_hit": false,
+  "closed": "2026-11-19T23:47:47.670319+00:00"
  },
  {
   "id": "daily|EURUSD|SELL|2026-11-19 15:00:00+00:00",
@@ -121,9 +122,10 @@
   "tp2": 1.0978153944015503,
   "rr": 5.593834914695532,
   "created": "2026-11-19T17:37:58.638489+00:00",
-  "status": "pending",
-  "result": null,
-  "tp1_hit": false
+  "status": "closed",
+  "result": "missed",
+  "tp1_hit": false,
+  "closed": "2026-11-19T23:47:47.670319+00:00"
  },
  {
   "id": "tl|EURUSD|BUY|2026-11-19 07:00:00+00:00|2026-11-19 15:00:00+00:00",
@@ -136,8 +138,9 @@
   "tp2": 1.1013215780258179,
   "rr": 2.7595343947512614,
   "created": "2026-11-19T17:38:00.257589+00:00",
-  "status": "pending",
-  "result": null,
-  "tp1_hit": false
+  "status": "closed",
+  "result": "loss",
+  "tp1_hit": false,
+  "closed": "2026-11-19T23:47:47.670319+00:00"
  }
 ]
