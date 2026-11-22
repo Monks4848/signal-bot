@@ -142,5 +142,20 @@
   "result": "loss",
   "tp1_hit": false,
   "closed": "2026-11-19T23:47:47.670319+00:00"
+ },
+ {
+  "id": "crt|BTCUSD|SELL|2026-11-21 20:00:00+00:00",
+  "strategy": "crt",
+  "symbol": "BTCUSD",
+  "side": "SELL",
+  "entry": 60297.96875,
+  "sl": 60425.705357142855,
+  "tp1": 60072.6015625,
+  "tp2": 59663.62890625,
+  "rr": 4.965998846678164,
+  "created": "2026-11-22T01:56:45.155530+00:00",
+  "status": "pending",
+  "result": null,
+  "tp1_hit": false
  }
 ]
