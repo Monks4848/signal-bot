@@ -170,9 +170,10 @@
   "tp2": 3620.60009765625,
   "rr": 2.509477224293104,
   "created": "2026-11-23T11:36:23.664709+00:00",
-  "status": "pending",
-  "result": null,
-  "tp1_hit": false
+  "status": "closed",
+  "result": "missed",
+  "tp1_hit": false,
+  "closed": "2026-11-23T12:59:35.210627+00:00"
  },
  {
   "id": "daily|BTCUSD|SELL|2026-11-23 09:45:00+00:00",
@@ -185,8 +186,9 @@
   "tp2": 61305.5,
   "rr": 2.0550571219237526,
   "created": "2026-11-23T11:36:24.743640+00:00",
-  "status": "pending",
-  "result": null,
-  "tp1_hit": false
+  "status": "closed",
+  "result": "missed",
+  "tp1_hit": false,
+  "closed": "2026-11-23T12:59:35.210627+00:00"
  }
 ]
