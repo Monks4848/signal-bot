@@ -158,5 +158,35 @@
   "result": "missed",
   "tp1_hit": false,
   "closed": "2026-11-22T09:12:44.799275+00:00"
+ },
+ {
+  "id": "daily|XAUUSD|SELL|2026-11-23 07:45:00+00:00",
+  "strategy": "daily",
+  "symbol": "XAUUSD",
+  "side": "SELL",
+  "entry": 3628.8499755859375,
+  "sl": 3632.137464250837,
+  "tp1": null,
+  "tp2": 3620.60009765625,
+  "rr": 2.509477224293104,
+  "created": "2026-11-23T11:36:23.664709+00:00",
+  "status": "pending",
+  "result": null,
+  "tp1_hit": false
+ },
+ {
+  "id": "daily|BTCUSD|SELL|2026-11-23 09:45:00+00:00",
+  "strategy": "daily",
+  "symbol": "BTCUSD",
+  "side": "SELL",
+  "entry": 61462.609375,
+  "sl": 61539.05950055803,
+  "tp1": null,
+  "tp2": 61305.5,
+  "rr": 2.0550571219237526,
+  "created": "2026-11-23T11:36:24.743640+00:00",
+  "status": "pending",
+  "result": null,
+  "tp1_hit": false
  }
 ]
