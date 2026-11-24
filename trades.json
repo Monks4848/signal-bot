@@ -202,9 +202,10 @@
   "tp2": 1.0911074876785278,
   "rr": 4.399628332501338,
   "created": "2026-11-24T06:33:16.482527+00:00",
-  "status": "pending",
-  "result": null,
-  "tp1_hit": false
+  "status": "closed",
+  "result": "missed",
+  "tp1_hit": false,
+  "closed": "2026-11-24T18:11:13.585547+00:00"
  },
  {
   "id": "tl|XAUUSD|SELL|2026-11-24 03:00:00+00:00|2026-11-24 05:00:00+00:00",
@@ -217,9 +218,10 @@
   "tp2": 3599.89990234375,
   "rr": 1.8268739643785057,
   "created": "2026-11-24T06:33:18.062749+00:00",
-  "status": "pending",
-  "result": null,
-  "tp1_hit": false
+  "status": "closed",
+  "result": "loss",
+  "tp1_hit": false,
+  "closed": "2026-11-24T18:11:13.585547+00:00"
  },
  {
   "id": "tl|BTCUSD|SELL|2026-11-24 02:00:00+00:00|2026-11-24 05:00:00+00:00",
@@ -232,7 +234,7 @@
   "tp2": 58657.421875,
   "rr": 4.5456398427252465,
   "created": "2026-11-24T06:33:18.659917+00:00",
-  "status": "pending",
+  "status": "open",
   "result": null,
   "tp1_hit": false
  }
