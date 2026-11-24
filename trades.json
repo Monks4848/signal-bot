@@ -190,5 +190,50 @@
   "result": "missed",
   "tp1_hit": false,
   "closed": "2026-11-23T12:59:35.210627+00:00"
+ },
+ {
+  "id": "daily|EURUSD|SELL|2026-11-24 02:45:00+00:00",
+  "strategy": "daily",
+  "symbol": "EURUSD",
+  "side": "SELL",
+  "entry": 1.091762661933899,
+  "sl": 1.0919115777526582,
+  "tp1": null,
+  "tp2": 1.0911074876785278,
+  "rr": 4.399628332501338,
+  "created": "2026-11-24T06:33:16.482527+00:00",
+  "status": "pending",
+  "result": null,
+  "tp1_hit": false
+ },
+ {
+  "id": "tl|XAUUSD|SELL|2026-11-24 03:00:00+00:00|2026-11-24 05:00:00+00:00",
+  "strategy": "tl",
+  "symbol": "XAUUSD",
+  "side": "SELL",
+  "entry": 3631.699951171875,
+  "sl": 3649.1067616296195,
+  "tp1": null,
+  "tp2": 3599.89990234375,
+  "rr": 1.8268739643785057,
+  "created": "2026-11-24T06:33:18.062749+00:00",
+  "status": "pending",
+  "result": null,
+  "tp1_hit": false
+ },
+ {
+  "id": "tl|BTCUSD|SELL|2026-11-24 02:00:00+00:00|2026-11-24 05:00:00+00:00",
+  "strategy": "tl",
+  "symbol": "BTCUSD",
+  "side": "SELL",
+  "entry": 60548.44140625,
+  "sl": 60964.44874441964,
+  "tp1": null,
+  "tp2": 58657.421875,
+  "rr": 4.5456398427252465,
+  "created": "2026-11-24T06:33:18.659917+00:00",
+  "status": "pending",
+  "result": null,
+  "tp1_hit": false
  }
 ]
