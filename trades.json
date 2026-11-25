@@ -237,5 +237,20 @@
   "status": "open",
   "result": null,
   "tp1_hit": false
+ },
+ {
+  "id": "daily|XAUUSD|SELL|2026-11-24 15:30:00+00:00",
+  "strategy": "daily",
+  "symbol": "XAUUSD",
+  "side": "SELL",
+  "entry": 3597.4000244140625,
+  "sl": 3603.358925955636,
+  "tp1": null,
+  "tp2": 3557.39990234375,
+  "rr": 6.712667056376548,
+  "created": "2026-11-25T02:22:26.629117+00:00",
+  "status": "pending",
+  "result": null,
+  "tp1_hit": false
  }
 ]
