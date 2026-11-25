@@ -234,9 +234,10 @@
   "tp2": 58657.421875,
   "rr": 4.5456398427252465,
   "created": "2026-11-24T06:33:18.659917+00:00",
-  "status": "open",
-  "result": null,
-  "tp1_hit": false
+  "status": "closed",
+  "result": "win",
+  "tp1_hit": false,
+  "closed": "2026-11-25T11:29:08.760292+00:00"
  },
  {
   "id": "daily|XAUUSD|SELL|2026-11-24 15:30:00+00:00",
