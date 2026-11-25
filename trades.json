@@ -249,8 +249,9 @@
   "tp2": 3557.39990234375,
   "rr": 6.712667056376548,
   "created": "2026-11-25T02:22:26.629117+00:00",
-  "status": "pending",
-  "result": null,
-  "tp1_hit": false
+  "status": "closed",
+  "result": "missed",
+  "tp1_hit": false,
+  "closed": "2026-11-25T06:53:52.770311+00:00"
  }
 ]
